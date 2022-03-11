@@ -165,6 +165,7 @@ int main()
             catch (int i)
             {
                 cout << "Disobey properties of matrix\n\n";
+                system("pause");
             }
 
             break;
